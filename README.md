@@ -1,6 +1,6 @@
 # Merhabalar 👋, Ben Nihat Ovalıoğlu 👋 
 
-
+## Korkut Anadolu Lisesi 12. Sınıf Öğrencisiyim.
 <img src="https://github-readme-stats.vercel.app/api?username=Stephantouchh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
