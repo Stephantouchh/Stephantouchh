@@ -1,7 +1,7 @@
 ### Merhabalar 👋, Ben Nihat Ovalıoğlu 👋 
 Ben Kimim
 - 💻Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 3. sınıf öğrencisiyim.
-💻DSC GAZİ Core Team ekibinde yer almaktayım.
+- 💻DSC GAZİ Core Team ekibinde yer almaktayım.
 💻Full Stack Developer olmak için çabalıyorum.
 💻Kendimi her alanda geliştirmee çalışıyorum.
 📫 Bana ulaşmak isterseniz gumusisikberkcan@gmail.com adresini kullanabilirsiniz.
