@@ -2,10 +2,6 @@
 Ben Kimim
 - 💻Korkut Anadolu Lisesi 12. Sınıf Öğrencisiyim.
 - 💻Old Team Proje Geliştirme Ekibinde Yer Almaktayım.
-💻Full Stack Developer olmak için çabalıyorum.
-💻Kendimi her alanda geliştirmee çalışıyorum.
-📫 Bana ulaşmak isterseniz gumusisikberkcan@gmail.com adresini kullanabilirsiniz.
-💻 DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)
 
 Bölümüm öğretmenlik olsada ideallerimden asla vazgeçemem.🎖️
 ![](https://komarev.com/ghpvc/?username=Stephantouchh&color=green&style=plastic&label=Profil+Görüntülenme)
