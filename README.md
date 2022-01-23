@@ -1,6 +1,6 @@
 # Merhabalar 👋, Ben Nihat Ovalıoğlu 👋 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 <img src="https://github-readme-stats.vercel.app/api?username=Stephantouchh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
