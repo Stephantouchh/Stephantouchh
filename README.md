@@ -1,4 +1,13 @@
 ### Merhabalar 👋, Ben Nihat Ovalıoğlu 👋 
+Ben Kimim
+💻Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 3. sınıf öğrencisiyim.
+💻DSC GAZİ Core Team ekibinde yer almaktayım.
+💻Full Stack Developer olmak için çabalıyorum.
+💻Kendimi her alanda geliştirmee çalışıyorum.
+📫 Bana ulaşmak isterseniz gumusisikberkcan@gmail.com adresini kullanabilirsiniz.
+💻 DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)
+
+Bölümüm öğretmenlik olsada ideallerimden asla vazgeçemem.🎖️
 ![](https://komarev.com/ghpvc/?username=Stephantouchh&color=green&style=plastic&label=Profil+Görüntülenme)
 <img src="https://github-readme-stats.vercel.app/api?username=Stephantouchh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
