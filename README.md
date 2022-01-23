@@ -1,9 +1,5 @@
 ### Merhabalar 👋, Ben Nihat Ovalıoğlu 👋 
-Ben Kimim
-- 💻Korkut Anadolu Lisesi 12. Sınıf Öğrencisiyim.
-- 💻Old Team Proje Geliştirme Ekibinde Yer Almaktayım.
 
-Bölümüm öğretmenlik olsada ideallerimden asla vazgeçemem.🎖️
 ![](https://komarev.com/ghpvc/?username=Stephantouchh&color=green&style=plastic&label=Profil+Görüntülenme)
 <img src="https://github-readme-stats.vercel.app/api?username=Stephantouchh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
