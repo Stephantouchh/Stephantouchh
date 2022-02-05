@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Stephantouchh"><img src="https://readme-typing-svg.herokuapp.com?lines=Herkese+Merhabalar;Sayfama+Hoş+Geldiniz!;Ben+18+yaşındayım.;Yazılım+ve+Kodlamayı+Çok+Seviyorum.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Stephantouchh"><img src="https://readme-typing-svg.herokuapp.com?lines=Herkese+Merhabalar;Sayfama+Hoş+Geldiniz!;Ben+Nihat;18+yaşındayım.;Yazılım+ve+Kodlamayı+Çok+Seviyorum.;&center=true&width=500&height=50"></a>
 </p>
 
 <h1 align="center">Merhaba 👋, Ben Nihat Ovalıoğlu </h1>
