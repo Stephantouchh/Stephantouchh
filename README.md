@@ -4,10 +4,10 @@
 
 ### Ben Kimim
 - :computer:Korkut Anadolu Lisesi son sınıf öğrencisiyim. 
-- :computer:DSC GAZİ Core Team ekibinde yer almaktayım. 
+- :computer:Old Team grubunda yer almaktayım.
 - :computer:Full Stack Developer olmak için çabalıyorum. 
-- :computer:Kendimi her alanda geliştirmee çalışıyorum. 
-- 📫 Bana ulaşmak isterseniz **gumusisikberkcan@gmail.com** adresini kullanabilirsiniz. 
+- :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
+- 📫 Bana ulaşmak isterseniz **novalioglu2@gmail.com** adresini kullanabilirsiniz. 
 
 ***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
 <br>
