@@ -9,10 +9,10 @@
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **novalioglu2@gmail.com** adresini kullanabilirsiniz. 
 
-***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
+***:computer:	DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)***
 <br>
 
-***Bölümüm öğretmenlik olsada ideallerimden asla vazgeçemem.:medal_military:***
+***Hedef: Bilgisayar Programcılığı :medal_military:***
 
 <p align="center">
   <img src= "https://gpvc.arturio.dev/berkcangumusisik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
