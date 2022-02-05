@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/github/stars/Stephantouchh?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<h1 align="center"> 💻Berkcan Gümüşışık</h1>
+<h1 align="center"> 💻Nihat Ovalıoğlu</h1>
 <p align="center">
-<a href="https://github.com/berkcangumusisik">
+<a href="https://github.com/Stephantouchh">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Stephantouchh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
  <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephantouchh&layout=compact&langs_count=16&theme=react"/>
