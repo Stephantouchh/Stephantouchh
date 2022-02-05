@@ -13,7 +13,6 @@
 <br>
 
 ***Hedef: Bilgisayar Programcılığı, ondan sonrası ALLAH'a emanet. :medal_military:***
-<h3 align="center">Connect & Follow Me:</h3>
 
  
 
@@ -32,6 +31,7 @@
  </div>
 </p>
 <div align="center">
+<h3 align="center">Connect & Follow Me:</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihat-oval%C4%B1o%C4%9Flu-a74010205/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephancodee_/)
