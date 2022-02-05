@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Sayfama+Hoş+Geldiniz!;Benim+kullanıcı+adım+Stephantouchh;Yazılım+ve+Kodlaamayı+Çok+Seviyorum.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Stephantouchh"><img src="https://readme-typing-svg.herokuapp.com?lines=Sayfama+Hoş+Geldiniz!;Benim+kullanıcı+adım+Stephantouchh;Yazılım+ve+Kodlaamayı+Çok+Seviyorum.;&center=true&width=500&height=50"></a>
 </p>
 
 <h1 align="center">Merhaba 👋, Ben Nihat Ovalıoğlu </h1>
