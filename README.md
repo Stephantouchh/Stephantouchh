@@ -1,9 +1,11 @@
-<h1 align="center">Merhaba 👋, Ben Nihat Ovalıoğlu </h1>
- <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
 <p align="center">
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
 </p>
+
+<h1 align="center">Merhaba 👋, Ben Nihat Ovalıoğlu </h1>
+ <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
+
 
 
 ### Ben Kimim
