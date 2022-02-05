@@ -80,5 +80,7 @@
 <code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552220.png"></code>
  
 </p>
+<p>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephantouchh)  
+  </p>
 
