@@ -68,7 +68,8 @@
 <p align="center">
   
 <code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552222.png"></code>
-<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552220.png"></code
+<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552220.png"></code>
+ 
 </p>
 
 
