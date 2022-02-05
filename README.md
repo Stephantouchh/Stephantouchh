@@ -14,8 +14,6 @@
 
 ***Hedef: Bilgisayar Programcılığı, ondan sonrası ALLAH'a emanet. :medal_military:***
 
- 
-
 <p align="center">
   <img src= "https://gpvc.arturio.dev/Stephantouchh" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Stephantouchh?label=Followers&style=social"> •   
