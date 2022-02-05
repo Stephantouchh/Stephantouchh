@@ -13,6 +13,17 @@
 <br>
 
 ***Hedef: Bilgisayar Programcılığı, ondan sonrası ALLAH'a emanet. :medal_military:***
+<h3 align="center">Connect & Follow Me:</h3>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatihtech/)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpMnisdqsNAGzJfQBkBaOKg)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://fatihes.medium.com/)
+[![Mail Badge](https://img.shields.io/badge/develop.fatihes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:develop.fatihes@gmail.com)](mailto:develop.fatihes@gmail.com)
+
+ </div> 
 
 <p align="center">
   <img src= "https://gpvc.arturio.dev/Stephantouchh" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
