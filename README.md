@@ -1,9 +1,9 @@
-<h1 align="center">Merhaba 👋, Ben Berkcan Gümüşışık </h1>
+<h1 align="center">Merhaba 👋, Ben Nihat Ovalıoğlu </h1>
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
 ### Ben Kimim
-- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 3. sınıf öğrencisiyim. 
+- :computer:Korkut Anadolu Lisesi son sınıf öğrencisiyim. 
 - :computer:DSC GAZİ Core Team ekibinde yer almaktayım. 
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmee çalışıyorum. 
