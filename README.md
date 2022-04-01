@@ -72,11 +72,4 @@
 <code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
 
 </p>
-<h2 align="center">👩‍🖍📐 Design</h2>
 
-<p align="center">
-  
-<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552222.png"></code>
-<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552220.png"></code>
- 
-</p>
