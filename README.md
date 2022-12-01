@@ -9,7 +9,7 @@
 
 
 ### Ben Kimim
-- :computer:Korkut Anadolu Lisesi son sınıf öğrencisiyim. 
+- :computer:Dicle Üniversite'sinde Bilgisayar Programcılığı bölümünde okumaktayım. 
 - :computer:Old Team grubunda yer almaktayım.
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
